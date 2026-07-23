@@ -98,21 +98,6 @@ flowchart TD
 
 ---
 
-## Healthcare Data Intelligence System
-
-An end-to-end AI framework designed to analyze complex medical datasets, predict disease outbreaks, and optimize hospital resource allocation.
-
-### 🏥 Key Features
-
-- **Disease Prediction:** Heart Disease & Diabetes risk modeling  
-- **Interactive Dashboard:** Real-time patient vitals via Streamlit  
-- **Risk Stratification:** Categorizing patients by urgency  
-
-</td>
-
-<td valign="top">
-
----
 
 ## Intelligent Voice Assistant
 
